@@ -1,0 +1,96 @@
+{
+  "chargingStations": [
+    {
+      "id": 1,
+      "name": "Fortum Fast Charger",
+      "status": "Active",
+      "image": "http://dummyimage.com/192x100.png/dddddd/000000",
+      "price": 13.55,
+      "operator": "Fortum Charge & Drive India",
+      "location": [
+        {
+          "latitude": 17.48593,
+          "longitude": 78.41122,
+          "city": "Hyderabad",
+          "area": "Kukatpally Metro"
+        }
+      ],
+      "charge": [
+        {
+          "connector": "CCS2/CHD",
+          "power": "10 kW",
+          "Connectors" : 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kukataplly Generic",
+      "status": "NA",
+      "image": "http://dummyimage.com/225x100.png/ff4444/ffffff",
+      "price": 0.00,
+      "operator": "NA",
+      "location": [
+        {
+          "latitude": 17.48626,
+          "longitude": 78.41101,
+          "city": "Hyderabad",
+          "area": "Kukatpally Metro"
+        }
+      ],
+      "charge": [
+        {
+          "connector": "IS 1293:2005 16A",
+          "power": "3.5 kw",
+          "Connectors" : 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "TATA Power ez charge",
+      "status": "Active",
+      "image": "http://dummyimage.com/225x100.png/ff4444/ffffff",
+      "price": 16.00,
+      "operator": "TATA Power",
+      "location": [
+        {
+          "latitude": 17.49677,
+          "longitude": 78.37587,
+          "city": "Hyderabad",
+          "area": "Miyapur Metro"
+        }
+      ],
+      "charge": [
+        {
+          "connector": "CCS2",
+          "power": "15 kw",
+          "Connectors" : 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fortum Fast Charger",
+      "status": "Active",
+      "image": "http://dummyimage.com/225x100.png/ff4444/ffffff",
+      "price": 13.55,
+      "operator": "Fortum Charge & Drive India",
+      "location": [
+        {
+          "latitude": 17.497153,
+          "longitude": 78.375211,
+          "city": "Hyderabad",
+          "area": "Miyapur Metro"
+        }
+      ],
+      "charge": [
+        {
+          "connector": "CCS2/CHD",
+          "power": "10 kw",
+          "Connectors" : 2
+        }
+      ]
+    }
+  ]
+}
