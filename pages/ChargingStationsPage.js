@@ -1,4 +1,4 @@
-import chargingStationsData from "./stations.json";
+import chargingStationsData from "./api/stations.json";
 
 const ChargingStationsPage = () => {
   return (

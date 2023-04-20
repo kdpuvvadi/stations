@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import ChargingStationsPage from './ChargingStationsPage';
-import Navbar from './Header'; 
+import Navbar from './components/Header'; 
 
 const IndexPage = () => {
   return (
