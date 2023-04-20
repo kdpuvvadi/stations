@@ -91,6 +91,29 @@
           "Connectors" : 2
         }
       ]
+    },
+    {
+      "id": 5,
+      "name": "Fortum Fast Charger",
+      "status": "Active",
+      "image": "http://dummyimage.com/225x100.png/ff4444/ffffff",
+      "price": 13.55,
+      "operator": "Fortum Charge & Drive India",
+      "location": [
+        {
+          "latitude": 17.432389,
+          "longitude": 78.373194,
+          "city": "Hyderabad",
+          "area": "Gachibowli"
+        }
+      ],
+      "charge": [
+        {
+          "connector": "CCS2/CHD",
+          "power": "10 kw",
+          "Connectors" : 2
+        }
+      ]
     }
   ]
 }
